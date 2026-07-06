@@ -20,7 +20,7 @@ AI-powered outfit recommendation engine built with FastAPI and Python.
 
 Clone the repo:
 \`\`\`bash
-git clone https://github.com/YOUR_USERNAME/outfit-ai.git
+git clone https://github.com/KaustubhP25/outfit-ai.git
 cd outfit-ai
 \`\`\`
 
